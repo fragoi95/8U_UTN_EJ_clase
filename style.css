@@ -1,0 +1,17 @@
+#contenido {
+    height: 200px;
+    width: 400px;
+    background-color: red;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bold;
+}
+
+#info {
+    height: 200px;
+    width: 400px;
+}
+
+.lista {
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bold;
+}
